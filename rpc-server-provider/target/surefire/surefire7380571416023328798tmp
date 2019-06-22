@@ -1,0 +1,35 @@
+#surefire
+#Sat Jun 22 13:36:49 CST 2019
+testClassesDirectory=E\:\\project\\gupao\\rpc\\rpc-server\\rpc-server-provider\\target\\test-classes
+classPathUrl.4=D\:\\Program Files\\mavenDB\\com\\hugo\\rpc-server-api\\1.0-SNAPSHOT\\rpc-server-api-1.0-SNAPSHOT.jar
+classPathUrl.3=D\:\\Program Files\\mavenDB\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
+classPathUrl.2=D\:\\Program Files\\mavenDB\\junit\\junit\\4.11\\junit-4.11.jar
+useManifestOnlyJar=true
+classPathUrl.1=E\:\\project\\gupao\\rpc\\rpc-server\\rpc-server-provider\\target\\classes
+reportsDirectory=E\:\\project\\gupao\\rpc\\rpc-server\\rpc-server-provider\\target\\surefire-reports
+classPathUrl.0=E\:\\project\\gupao\\rpc\\rpc-server\\rpc-server-provider\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=E\:\\project\\gupao\\rpc\\rpc-server\\rpc-server-provider\\src\\test\\java
+surefireClassPathUrl.1=D\:\\Program Files\\mavenDB\\org\\apache\\maven\\surefire\\surefire-api\\2.7.1\\surefire-api-2.7.1.jar
+surefireClassPathUrl.0=D\:\\Program Files\\mavenDB\\org\\apache\\maven\\surefire\\surefire-junit4\\2.7.1\\surefire-junit4-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=E\:\\project\\gupao\\rpc\\rpc-server\\rpc-server-provider\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+includes0=**/Test*.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+classPathUrl.10=D\:\\Program Files\\mavenDB\\org\\springframework\\spring-expression\\4.3.13.RELEASE\\spring-expression-4.3.13.RELEASE.jar
+classPathUrl.9=D\:\\Program Files\\mavenDB\\commons-logging\\commons-logging\\1.2\\commons-logging-1.2.jar
+classPathUrl.8=D\:\\Program Files\\mavenDB\\org\\springframework\\spring-core\\4.3.13.RELEASE\\spring-core-4.3.13.RELEASE.jar
+classPathUrl.7=D\:\\Program Files\\mavenDB\\org\\springframework\\spring-beans\\4.3.13.RELEASE\\spring-beans-4.3.13.RELEASE.jar
+childDelegation=false
+classPathUrl.6=D\:\\Program Files\\mavenDB\\org\\springframework\\spring-aop\\4.3.13.RELEASE\\spring-aop-4.3.13.RELEASE.jar
+classPathUrl.5=D\:\\Program Files\\mavenDB\\org\\springframework\\spring-context\\4.3.13.RELEASE\\spring-context-4.3.13.RELEASE.jar

@@ -1,0 +1,5 @@
+com\hugo\RpcRequest.class
+com\hugo\App.class
+com\hugo\IHelloService.class
+com\hugo\IPayService.class
+com\hugo\User.class

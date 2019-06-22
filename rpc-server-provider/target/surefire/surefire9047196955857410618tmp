@@ -1,0 +1,7 @@
+#surefire
+#Tue Jun 18 21:06:33 CST 2019
+user.dir=E\:\\project\\gupao\\rpc\\rpc-server\\rpc-server-provider
+maven.repo.local=D\:\\Program Files\\mavenDB
+idea.version=2018.1.3
+localRepository=D\:\\Program Files\\mavenDB
+basedir=E\:\\project\\gupao\\rpc\\rpc-server\\rpc-server-provider
